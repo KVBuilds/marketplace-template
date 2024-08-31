@@ -9,6 +9,7 @@ This project is a template for creating a modern online marketplace that enables
 - **Async Structure and Components:** Understanding asynchronous functions and behavior of component interaction.
 - **Reusability:** Continously reuse existing components across the codebase to better understand build consistency.
 - **File Structure:** Better ideas on file structure approach and optimize components that are globaly versus dedicated.
+- **Web hoooks:** Better understanding on use of different web hooks and including across different functions. 
 
 
 ## Features
