@@ -8,7 +8,7 @@ import { db } from "@/db";
 import { redis } from "./redis";
 import { Cart } from "./interfaces";
 import { revalidatePath } from "next/cache";
-import { stripe } from "../lib/stripe";
+import { stripe } from "./stripe";
 import Stripe from "stripe";
 
 //Creates server actions that checks for authentication 
